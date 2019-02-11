@@ -1,0 +1,33 @@
+{
+  people(memberOf:"ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f", first: 100) {
+    edges {
+      node {
+        name
+        party: currentMemberships(classification:"party") {
+          organization {
+            name
+
+          }
+        }
+        links {
+          url
+        }
+        sources {
+          url
+        }
+        chamber: currentMemberships(classification:["upper", "lower"]) {
+          post {
+            label
+          }
+          organization {
+            name
+            classification
+            parent {
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+}

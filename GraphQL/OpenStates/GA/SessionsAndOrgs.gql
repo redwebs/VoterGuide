@@ -1,0 +1,30 @@
+{
+  jurisdiction(name: "Georgia") {
+    name
+    url
+    legislativeSessions {
+      edges {
+        node {
+          name
+          identifier
+        }
+      }
+    }
+    organizations(classification: "legislature", first: 1) {
+      edges {
+        node {
+          id
+          name
+          children(first: 20) {
+            edges {
+              node {
+								id
+                name
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
