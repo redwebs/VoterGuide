@@ -3,23 +3,17 @@
     edges {
       node {
         name
-        legislativeSessions {
-          edges {
-            node {
-              name
-            }
-          }
-        }
         legislature: organizations(classification: "legislature", first: 1) {
           edges {
             node {
               name
               classification
-              children(first: 5) {
+              children(last: 2) {
                 edges {
                   node {
                     name
                     classification
+                    id
                   }
                 }
               }

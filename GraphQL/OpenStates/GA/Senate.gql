@@ -23,13 +23,6 @@
           post {
             label
           }
-          organization {
-            name
-            classification
-            parent {
-              name
-            }
-          }
         }
 				contactDetails {
 					type

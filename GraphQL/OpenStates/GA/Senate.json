@@ -1,0 +1,652 @@
+{
+    "data": {
+      "people": {
+        "edges": [
+          {
+            "node": {
+              "id": "ocd-person/1f7d013a-8861-4e08-b6bf-7c8d36f8107c",
+              "name": "Greg Dolezal",
+              "familyName": "Dolezal",
+              "givenName": "Greg",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/DolezalGreg4925.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Republican"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4925&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4925&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "27"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "305-B Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "greg.dolezal@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-656-7127",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "5255 Harris Springs Dr;Cumming, GA 30040",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/218a4fc4-a568-4b78-b350-0d60c6b12d4c",
+              "name": "Sally Harrell",
+              "familyName": "Harrell",
+              "givenName": "Sally",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/HarrellSally311.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Democratic"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=311&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=311&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "40"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "319-B Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "sally.harrell@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-463-2260",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "P.O. Box 941365;Atlanta, GA 31141",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/6da7fe11-4436-4854-8e1b-4c45dc4cdaac",
+              "name": "Randy Robertson",
+              "familyName": "Robertson",
+              "givenName": "Randy",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/RobertsonRandy4926.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Republican"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4926&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4926&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "29"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "305-A Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "randy.robertson@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-463-3931",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "P.O. Box 62;Cataula, GA 31804",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/5b6e0e37-802b-4103-b401-551532aba2e7",
+              "name": "Sheikh Rahman",
+              "familyName": "Rahman",
+              "givenName": "Sheikh",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/RahmanSheikh4924.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Democratic"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4924&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4924&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "5"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "323-B Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "sheikh.rahman@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-463-1318",
+                  "note": "Capitol Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/932f345f-19a2-4c24-9c77-b81ef894084b",
+              "name": "Zahra Karinshak",
+              "familyName": "Karinshak",
+              "givenName": "Zahra",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/KarinshakZahra4932.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Democratic"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4932&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4932&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "48"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "314-A Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "zahra.karinshak@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-656-0048",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "P.O. Box 956034;Duluth, GA 30095",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/110cea65-4417-4b3a-aa39-3e7e6122073d",
+              "name": "Valencia Seay",
+              "familyName": "Seay",
+              "givenName": "Valencia",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/SeayValencia41.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Democratic"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=41&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=41&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "34"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "420-A State Capitol;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "valencia.seay@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-656-5095",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "fax",
+                  "value": "404-657-9728",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "P.O. Box 960008;Riverdale, GA 30274",
+                  "note": "District Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "770-909-9912",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/3f15ad5e-877d-44aa-b5b3-b24587c42685",
+              "name": "Elena Parent",
+              "familyName": "Parent",
+              "givenName": "Elena",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/ParentElena768.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Democratic"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=768&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=768&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "42"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "321-B Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "elena.parent@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-656-5109",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "1250 Oakdale Road NE;Atlanta, GA 30307",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/ed835a8e-0055-4607-9803-6dfccb346ab5",
+              "name": "Renee S Unterman",
+              "familyName": "Unterman",
+              "givenName": "Renee",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/UntermanRenee53.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Republican"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=53&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=53&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "45"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "121-G State Capitol;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "renee.unterman@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-463-1368",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "P.O. Box 508;Buford, GA 30518",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/9a8fc67a-f6b7-4e54-8d3e-8945750d3c84",
+              "name": "Butch Miller",
+              "familyName": "Miller",
+              "givenName": "Butch",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/MillerButch719.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Republican"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=719&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=719&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "49"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "321 State Capitol;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "butch.miller@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-656-6578",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "2420 Browns Bridge Road;Gainesville, GA 30504",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "ocd-person/69607868-a9be-4af5-8f1c-33c30abb32a8",
+              "name": "Jesse Stone",
+              "familyName": "Stone",
+              "givenName": "Jesse",
+              "image": "http://www.senate.ga.gov/SiteCollectionImages/StoneJesse748.jpg",
+              "party": [
+                {
+                  "organization": {
+                    "name": "Republican"
+                  }
+                }
+              ],
+              "links": [
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=748&Session=27"
+                }
+              ],
+              "sources": [
+                {
+                  "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+                },
+                {
+                  "url": "http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=748&Session=27"
+                }
+              ],
+              "chamber": [
+                {
+                  "post": {
+                    "label": "23"
+                  }
+                }
+              ],
+              "contactDetails": [
+                {
+                  "type": "address",
+                  "value": "325-A Coverdell Legislative Office Building;Atlanta, GA 30334",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "email",
+                  "value": "jesse.stone@senate.ga.gov",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "404-463-1314",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "fax",
+                  "value": "404-463-1381",
+                  "note": "Capitol Address",
+                  "label": ""
+                },
+                {
+                  "type": "address",
+                  "value": "827 N. Liberty Street;Waynesboro, GA 30830",
+                  "note": "District Address",
+                  "label": ""
+                },
+                {
+                  "type": "voice",
+                  "value": "706-554-5223",
+                  "note": "District Address",
+                  "label": ""
+                },
+                {
+                  "type": "fax",
+                  "value": "478-237-9211",
+                  "note": "District Address",
+                  "label": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
